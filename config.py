@@ -1,0 +1,13 @@
+token = "TOKEN"
+servernm = "Leo's" # Sunucu adı
+rol1 = 1053265722081558639 # baston şeker %20
+rol2 = 1053265718394765452 # zencefilli kurabiye %15
+rol3 = 1053265713978167326 # hediye paketi %14
+rol4 = 1053265697473564734 # noel cini %13
+rol5 = 1053265805095211069 # kardan adam %12
+rol6 = 1053265815560003614 # yılaşı ağacı %10
+rol7 = 1053265878587817994 # sıcak çikolata %7
+rol8 = 1053265884430471168 # ren geyiği %5
+rol9 = 1053265888440221726 # kartopu canavarı %3
+rol10 = 1053265902201737286 # padoru %1
+footer = "Developed by LEO4BEY" # footer ve oynuyor kısmı
